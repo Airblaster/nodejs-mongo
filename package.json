@@ -2,6 +2,7 @@
   "name": "lab1",
   "version": "0.0.0",
   "private": true,
+  "author": "Igor Borisov",
   "scripts": {
     "start": "node ./bin/www"
   },
